@@ -12,6 +12,7 @@ const Hero = () => {
       taiyaki small batch bitters, bespoke jianbing leggings marxism
       keytar pabst adaptogen mixtape tumblr stumptown. DSA twee iceland
       tacos swag tote bag. Solarpunk man bun fingerstache retro pinterest.
+      Lorem ipsum dolor sit amet.
       </p>
     </div>
     <div className="img-container">
